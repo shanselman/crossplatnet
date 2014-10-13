@@ -319,6 +319,14 @@ ul {
     margin: 0 0 0px 40px;
 }
 
+.title {
+    font-family: Rosario;
+    font-size: 80px;
+    background: url(/img/sublimevisualstudio.jpg) 0 0 repeat-x;
+    height:300px;
+    text-shadow: 2px 2px #FFFFFF;
+
+}
 img { 
     margin-top: 20px;
     margin-left: auto;
