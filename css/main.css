@@ -308,6 +308,7 @@ textarea {
 h1, h2 {
     text-align: center;
     font-family: Roboto;
+    margin: 0px;
 }
 
 p, li {
@@ -322,8 +323,6 @@ ul {
 .title {
     font-family: Rosario;
     font-size: 80px;
-    background: url(/img/sublimevisualstudio.jpg) 0 0 repeat-x;
-    height:300px;
     text-shadow: 2px 2px #FFFFFF;
 
 }
